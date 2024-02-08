@@ -42,4 +42,15 @@ h4{
   font-size:2rem;
 }
 
-
+h3{
+  color:red;
+  font-size:2.5rem;
+  font-variant:small-caps;
+  font-weight:700;
+  letter-spacing: .5rem;
+  background:white;
+  width:80%;
+  margin:0 auto;
+  padding:1% 2%;
+  border-radius:5px;
+}
